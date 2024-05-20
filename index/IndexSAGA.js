@@ -1,0 +1,1 @@
+takeEvery('GET_RANK_RELATORIOS_RANKING_ASSESSORIAS', getRankRelatoriosRankingAssessoriasSaga)
